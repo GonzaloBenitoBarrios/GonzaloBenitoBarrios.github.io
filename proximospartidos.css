@@ -1,0 +1,64 @@
+h1{
+   font-family: sans-serif;
+   font-size: 40px;
+   color: ;
+}
+.copaliga{
+     font-family: sans-serif;
+     font-size: 23px;
+     padding-left: 630px;
+     //background-color: aqua;
+     border-radius: 10px;
+     
+}
+.horario{
+    font-family: sans-serif;
+    font-size: 13px;
+    padding-left: 690px;
+   
+}
+.Central{
+    font-family: sans-serif;
+    padding-left: 500px;
+    margin: 0;
+}
+.Huracan{
+    font-family: sans-serif;
+    margin-left: -30px;
+}
+.seriea{
+    padding-top: 80px;
+    padding-left: 670px;
+    font-size: 23px;
+    font-family: sans-serif;
+    
+}
+.horario2{
+    padding-left: 685px;
+}
+.empoli{
+    padding-left: 600px;
+}
+.table{
+    border-collapse: collapse;
+}
+.horario3{
+    padding-left: 685px;
+    
+}
+.lecce{
+    padding-left: 600px;
+}
+.laliga{
+    font-family: sans-serif;
+     font-size: 23px;
+     padding-left: 670px;
+     padding-top: 80px;
+     
+}
+.horario4{
+    padding-left: 685px;
+}
+.bilbao{
+    padding-left: 550px;
+}
